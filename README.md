@@ -1,8 +1,8 @@
 # City Picker
 
 > A simple jQuery plugin for picking provinces, cities and districts of China.
-
-- [Demo](http://tshi0912.github.io/city-picker)
+- [Demo1](http://dev.yunnan.ws/tools/citys/)
+- [Demo2](http://tshi0912.github.io/city-picker)
 
 ##Release History
 
